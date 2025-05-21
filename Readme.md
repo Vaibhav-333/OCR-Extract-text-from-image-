@@ -2,10 +2,10 @@
 
 A simple Streamlit web app that extracts text from images using Tesseract OCR with support for English and Hindi.
 
-How to run streamlit app?
+How to run streamlit app?---->
 streamlit run app.py
 
-How to run main file?
+How to run main file?---->
 python main.py image
 
 
